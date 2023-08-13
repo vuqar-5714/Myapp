@@ -1,0 +1,53 @@
+.left-side{
+    padding-left: 200px;
+    }
+    
+    .header{
+        padding-bottom: 50px;
+    }
+    
+    .mainpart{
+        background-color: hsl(220, 16%, 96%);
+        height: 600px;
+        padding-top: 50px;
+        position: relative;
+        z-index: -1;
+    }
+    
+    .col3{
+        padding-top: 50px;
+    }
+    
+    .main{
+        margin-top: 50px;
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+        gap: 50px;
+    }
+    
+    
+    
+    .parametrs{
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+        flex-direction: column;
+        gap: 50px;
+    }
+    
+    
+    .load-part{
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+        gap: 30px;
+        flex-direction: column;
+    }
+    
+    
+    .section{
+        min-height: 500px;
+        min-width: 100%;
+        z-index: -1;
+    }
